@@ -4,3 +4,4 @@
 - [360 压缩](http://yasuo.360.cn/) - 360 唯一一款让人无法放弃的软件
 - [MarkdownPad 2](http://markdownpad.com/) - Markdown 编辑器
 - [PotPlayer](https://potplayer.daum.net/) - 本地视频播放器
+- [PanDownload](https://pandownload.com/) - 解锁百度网盘不限速下载姿势
