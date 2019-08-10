@@ -6,6 +6,7 @@
 - [KeyExtender](https://keyextender.en.softonic.com/) - 键位修改神器，会导致部分按键处于按住状态
 - 🌟[KeyTweak](https://www.bleepingcomputer.com/download/keytweak/) - 键位修改
 - [MarkdownPad 2](http://markdownpad.com/) - Markdown 编辑器
+- [OpenVPN](https://openvpn.net/) - OpenVPN 协议的 VPN 工具
 - [PanDownload](https://pandownload.com/) - 解锁百度网盘不限速下载姿势
 - [PotPlayer](https://potplayer.daum.net/) - 本地视频播放器
 - [Snipaste](https://zh.snipaste.com/) - 截图工具
