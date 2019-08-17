@@ -10,6 +10,7 @@
 - [OpenVPN](https://openvpn.net/) - OpenVPN 协议的 VPN 工具
 - [PanDownload](https://pandownload.com/) - 解锁百度网盘不限速下载姿势
 - 🌟[PotPlayer](https://potplayer.daum.net/) - 本地视频播放器
+- 🌟[ScreenToGif](https://www.screentogif.com/) - 录制屏幕并输出 Gif 图像
 - [Snipaste](https://zh.snipaste.com/) - 截图工具
 - 🌟[火绒安全软件](https://www.huorong.cn/) - 病毒查杀、垃圾清理、弹窗屏蔽、启动项管理等
 
