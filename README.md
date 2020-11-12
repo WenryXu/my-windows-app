@@ -1,7 +1,7 @@
 # My Windows App
 
 - 💖[360 压缩](http://yasuo.360.cn/) - 压缩 / 解压缩工具
-- [CCleaner](https://www.ccleaner.com/) - 系统清理工具
+- 💖[CCleaner](https://www.ccleaner.com/) - 系统清理工具
 - [Honeyview](https://www.bandisoft.com/honeyview/) - 图像浏览器
 - 💖[KeyTweak](https://www.bleepingcomputer.com/download/keytweak/) - 键位修改器
 - 💖[oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002) - 录屏工具
