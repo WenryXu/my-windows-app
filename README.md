@@ -10,4 +10,5 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook) - 空格键预览文件
 - [ScreenToGif](https://www.screentogif.com/) - 录制屏幕并输出 Gif 图像
 - [Snipaste](https://zh.snipaste.com/) - 截图工具
+- 💖 [傲软 PDF 转换](https://www.apowersoft.cn/pdf-converter) - PDF 文件转换工具
 - 💖 [火绒安全软件](https://www.huorong.cn/) - 病毒查杀、垃圾清理、弹窗屏蔽、启动项管理等
