@@ -8,6 +8,7 @@
 - [OpenVPN](https://openvpn.net/) - OpenVPN 协议的 VPN 工具
 - 💖 [PotPlayer](https://potplayer.daum.net/) - 本地视频播放器
 - [QuickLook](https://github.com/QL-Win/QuickLook) - 空格键预览文件
+- 💖 [ReNamer](http://www.den4b.com/products/renamer) - 文件批量重命名
 - [ScreenToGif](https://www.screentogif.com/) - 录制屏幕并输出 Gif 图像
 - [Snipaste](https://zh.snipaste.com/) - 截图工具
 - 💖 [傲软 PDF 转换](https://www.apowersoft.cn/pdf-converter) - PDF 文件转换工具
