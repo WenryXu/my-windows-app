@@ -11,5 +11,6 @@
 - 💖 [ReNamer](http://www.den4b.com/products/renamer) - 文件批量重命名
 - [ScreenToGif](https://www.screentogif.com/) - 录制屏幕并输出 Gif 图像
 - [Snipaste](https://zh.snipaste.com/) - 截图工具
+- 💖 [Windows Terminal](https://github.com/microsoft/terminal) - 全新的 Windows 终端
 - 💖 [傲软 PDF 转换](https://www.apowersoft.cn/pdf-converter) - PDF 文件转换工具
 - 💖 [火绒安全软件](https://www.huorong.cn/) - 病毒查杀、垃圾清理、弹窗屏蔽、启动项管理等
