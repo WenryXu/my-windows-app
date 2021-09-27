@@ -1,5 +1,6 @@
 # My Windows App
 
+- [Bandizip](https://www.bandisoft.com/bandizip/) - 压缩工具
 - [CCleaner](https://www.ccleaner.com/) - 系统清理工具
 - [Honeyview](https://www.bandisoft.com/honeyview/) - 图像浏览器
 - 💖 [KeyTweak](https://www.bleepingcomputer.com/download/keytweak/) - 键位修改器
